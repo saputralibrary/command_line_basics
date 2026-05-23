@@ -1,2 +1,1 @@
 # command_line_basics
-command_line_basics
